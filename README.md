@@ -17,7 +17,22 @@ Create an .env file (in the root of the project) for the environment variables:
 ### `MYSQL_PASSWORD=password`
 ### `MYSQL_DB=database`
 
-<hr/>
+```console
+. from decouple import config
+import pymysql
+import mysql.connector
 
+def get_connection():
+    return mysql.connector.connect(
+        host=config('MYSQL_HOST'),        
+        database=config('MYSQL_DB'),
+        user=config('MYSQL_USER'),
+        password=config('MYSQL_PASSWORD')
+    )
+```
+
+![Inyeccionsqldef](https://user-images.githubusercontent.com/90658763/183928503-53df4acb-6de0-486f-b41a-f8a1335374a8.png)
+
+<hr/>
 
 <br/><br/>
