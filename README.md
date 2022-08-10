@@ -1,4 +1,5 @@
 # Python: Prevention of SQL Injection attacks
+![spaceinjection](https://user-images.githubusercontent.com/90658763/183930258-9bf68857-712c-49fa-85ae-b468ca17e2fc.gif)
 
 Steps for the prevention of SQL Injection attacks in an application created with Python and MySQL.
 
