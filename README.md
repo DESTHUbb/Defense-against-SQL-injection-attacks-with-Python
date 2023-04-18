@@ -42,7 +42,7 @@ def get_connection():
 ## pymysql:
  [![pymysql ](https://user-images.githubusercontent.com/90658763/232776563-2dfbe1b5-8dd3-4cab-9446-1c2f99bb2049.png)](https://pypi.org/project/pymysql/)
 
-## 
+## mysql.connector:
 ![image](https://user-images.githubusercontent.com/90658763/232777656-87133a22-8239-4796-91b8-ca535c452000.png)
 
 
