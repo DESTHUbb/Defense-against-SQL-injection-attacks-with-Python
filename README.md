@@ -40,5 +40,5 @@ def get_connection():
 
 # Bookstores:
 
- [![Sys.h](https://user-images.githubusercontent.com/90658763/230771212-7be7f549-17c4-49e2-95bf-3f9674b57a89.png)](https://docs.python.org/3/library/sys.html)
+ [![Sys.h](https://user-images.githubusercontent.com/90658763/232776563-2dfbe1b5-8dd3-4cab-9446-1c2f99bb2049.png)](https://pypi.org/project/pymysql/)
 ![image](https://user-images.githubusercontent.com/90658763/232776563-2dfbe1b5-8dd3-4cab-9446-1c2f99bb2049.png)
