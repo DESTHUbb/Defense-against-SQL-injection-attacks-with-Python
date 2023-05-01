@@ -40,7 +40,7 @@ def get_connection():
 
 ## The function ```execute_stored_procedure``` takes as arguments the connection to the database, the name of the stored procedure, and the values ​​of the parameters. Inside the function, the ```callproc``` function is used to execute the stored procedure with the given parameters. Placeholders are indicated by %s in the placeholders string that is passed to the join function. The results are retrieved using the cursor's fetchall method and are returned as a list of tuples.
 
-## The usage example shows how you can use the ```execute_stored_procedure``` function to execute a stored procedure called ```sp_myprocedure``` with two parameters parameter_value1 and parameter_value2 . The results are printed to the console using the print function.
+## The usage example shows how you can use the ```execute_stored_procedure``` function to execute a stored procedure called ```sp_myprocedure``` with two parameters ```parameter_value1``` and parameter_value2 . The results are printed to the console using the print function.
 
 <hr/>
 
