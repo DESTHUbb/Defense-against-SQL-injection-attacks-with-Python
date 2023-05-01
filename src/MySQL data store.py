@@ -8,3 +8,4 @@ cursor.callproc(procedure_name, params)
         return results
     except 
 mysql.connector.Error as error:
+print(f"Failed to execute stored procedure: {error}")
