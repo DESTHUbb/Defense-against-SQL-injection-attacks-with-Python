@@ -38,6 +38,7 @@ def get_connection():
 
 ## The code tries to provide the correct values ​​for ```your_username``` , ```your_password```, ```your_host```, and ```your_database```. If the MySQL server is on the same machine as the Python code, you can use 'localhost' as the value for ```your_host```. If the MySQL server is on a remote machine, make sure you provide the correct IP address or domain name.
 
+## The function ```execute_stored_procedure``` takes as arguments the connection to the database, the name of the stored procedure, and the values ​​of the parameters. Inside the function, the callproc function is used to execute the stored procedure with the given parameters. Placeholders are indicated by %s in the placeholders string that is passed to the join function. The results are retrieved using the cursor's fetchall method and are returned as a list of tuples.
 <hr/>
 
 <br/><br/>
