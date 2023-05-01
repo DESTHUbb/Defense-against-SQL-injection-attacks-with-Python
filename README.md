@@ -34,6 +34,9 @@ def get_connection():
 
 ![Inyeccionsqldef](https://user-images.githubusercontent.com/90658763/183928503-53df4acb-6de0-486f-b41a-f8a1335374a8.png)
 
+# OPERATION "MySQL data store":
+
+
 <hr/>
 
 <br/><br/>
