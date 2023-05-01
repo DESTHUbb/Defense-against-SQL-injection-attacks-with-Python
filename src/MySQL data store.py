@@ -11,3 +11,4 @@ mysql.connector.Error as error:
 print(f"Failed to execute stored procedure: {error}")
 # Usage example
 conn = mysql.connector.connect(user='your_username', 
+password='your_password',
