@@ -15,3 +15,5 @@ password='your_password',
 host='your_host', database='your_database')
 params = ('value_parameter1', 'value_parameter2')
 results = 
+execute_stored_procedure(conn, 'sp_myprocedure', params)
+print(results)
