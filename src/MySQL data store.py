@@ -7,3 +7,4 @@ cursor.callproc(procedure_name, params)
         results = cursor.fetchall()
         return results
     except 
+mysql.connector.Error as error:
