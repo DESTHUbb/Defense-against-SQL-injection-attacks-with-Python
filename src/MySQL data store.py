@@ -13,3 +13,5 @@ print(f"Failed to execute stored procedure: {error}")
 conn = mysql.connector.connect(user='your_username', 
 password='your_password',
 host='your_host', database='your_database')
+params = ('value_parameter1', 'value_parameter2')
+results = 
