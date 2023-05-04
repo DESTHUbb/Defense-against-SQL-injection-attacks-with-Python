@@ -15,3 +15,8 @@ def clean_input(user_input):
     cleaned_input = re.sub('[^A-Za-z0-9]+', '', user_input)
     cleaned_input = cleaned_input.replace("'", "''")
     return cleaned_input
+  
+  # Function to execute a secure query
+def execute_query(query):
+    # Define the variable user_input and assign it a value
+    user_input = 'user_value'
