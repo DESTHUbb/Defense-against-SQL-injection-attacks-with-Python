@@ -18,3 +18,5 @@ def clean_input(user_input):
 
 def execute_query(query):
 user_input = 'user_value'
+   try:
+    
