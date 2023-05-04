@@ -20,4 +20,7 @@ def execute_query(query):
 user_input = 'user_value'
    try:
     cleaned_query = clean_input(query)
-        
+        results = session.execute(cleaned_query)
+        session.commit()
+        return results
+    except:
