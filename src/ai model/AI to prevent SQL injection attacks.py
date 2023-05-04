@@ -24,3 +24,5 @@ user_input = 'user_value'
         session.commit()
         return results
     except:
+session.rollback()
+        return None
