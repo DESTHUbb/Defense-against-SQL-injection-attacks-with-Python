@@ -17,5 +17,4 @@ def clean_input(user_input):
     return cleaned_input
 
 def execute_query(query):
-    # Define the variable user_input and assign it a value
-    user_input = 'user_value'
+user_input = 'user_value'
