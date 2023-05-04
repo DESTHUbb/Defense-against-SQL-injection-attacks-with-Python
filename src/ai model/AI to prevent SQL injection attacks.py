@@ -7,3 +7,6 @@ engine = create_engine('postgresql://username:password@localhost:5432/database_n
 
 Session = sessionmaker(bind=engine)
 session = Session()
+
+# Function to clean up user input and prevent SQL injection attacks
+def clean_input(user_input):
