@@ -1,1 +1,1 @@
-- Install SQLAlchemy
+- Install SQLAlchemy: pip install sqlalchemy.
