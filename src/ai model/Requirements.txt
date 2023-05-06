@@ -5,4 +5,5 @@ improvement requirements:
 
 Pandas==1.3.2
 NumPy==1.21.2
-Flask or Django ( Flask==2.0.2 or Django
+Flask or Django ( Flask==2.0.2 or Django==3.2.6)
+
