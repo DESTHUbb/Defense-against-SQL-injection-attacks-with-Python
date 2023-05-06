@@ -3,3 +3,4 @@ PostgreSQL==13.3
 
 improvement requirements:
 
+Pandas==
