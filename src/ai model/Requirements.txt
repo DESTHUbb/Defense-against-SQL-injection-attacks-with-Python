@@ -1,2 +1,3 @@
 - Install SQLAlchemy==1.4.25
+PostgreSQL==13.3
 
