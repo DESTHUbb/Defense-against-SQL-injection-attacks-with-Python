@@ -1,1 +1,7 @@
-- Install SQLAlchemy: pip install sqlalchemy.
+- Install SQLAlchemy:   ```  ```Python
+ ```  
+pip install sqlalchemy 
+ ```  
+  ```Python
+>>> You just have to insert the number of the ip analysis page and the script will do the job
+```
