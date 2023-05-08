@@ -59,3 +59,5 @@ def get_connection():
 ## Sessionmaker:
  [![pymysql ](https://user-images.githubusercontent.com/90658763/236940458-55217f51-b276-4f63-bd71-a1cc460cb7e4.png)](https://docs.sqlalchemy.org/en/20/orm/session_basics.html)
 
+## Re:
+
