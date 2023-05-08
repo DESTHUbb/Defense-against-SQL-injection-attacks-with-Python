@@ -57,5 +57,5 @@ def get_connection():
  [![pymysql ](https://user-images.githubusercontent.com/90658763/236939383-c72bff9e-033e-4116-be80-4c9fc6acd797.png)](https://docs.sqlalchemy.org/en/20/core/engines.html)
  
 ## Sessionmaker:
- [![pymysql ](https://user-images.githubusercontent.com/90658763/236940458-55217f51-b276-4f63-bd71-a1cc460cb7e4.png)](https://pypi.org/project/pymysql/)
+ [![pymysql ](https://user-images.githubusercontent.com/90658763/236940458-55217f51-b276-4f63-bd71-a1cc460cb7e4.png)](https://docs.sqlalchemy.org/en/20/orm/session_basics.html)
 
