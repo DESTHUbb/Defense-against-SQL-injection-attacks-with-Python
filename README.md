@@ -61,4 +61,4 @@ def get_connection():
 
 ## Re:
 
- [![pymysql ](https://user-images.githubusercontent.com/90658763/236941506-7f8d03a1-8743-4238-b24d-9dc6ece7d9b3.png)](https://pypi.org/project/pymysql/)
+ [![pymysql ](https://user-images.githubusercontent.com/90658763/236941506-7f8d03a1-8743-4238-b24d-9dc6ece7d9b3.png)](https://docs.python.org/3/library/re.html)
