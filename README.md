@@ -51,6 +51,7 @@ def get_connection():
 protobuf==3.19.3
 pycodestyle==2.8.0
 
+![ciberguarden](https://github.com/DESTHUbb/Defense-against-SQL-injection-attacks-with-Python/assets/90658763/88f2b448-0305-4b55-b94b-acb9365ebb71)
 
 
 ## pymysql:
@@ -71,8 +72,7 @@ pycodestyle==2.8.0
 
 ## Autopep8:
 
- [![pymysql ](https://github.com/DESTHUbb/Defense-against-SQL-injection-attacks-with-Python/assets/90658763/9d09cb6c-6764-4d41-a4c7-0fa9179e4dee)](https://pypi.org/project/autopep8/)
-
+[![pymysql ](https://github.com/DESTHUbb/Defense-against-SQL-injection-attacks-with-Python/assets/90658763/9d09cb6c-6764-4d41-a4c7-0fa9179e4dee.png)](https://pypi.org/project/autopep8/)
 
 
 
