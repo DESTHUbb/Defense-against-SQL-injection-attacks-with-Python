@@ -48,12 +48,6 @@ def get_connection():
 
 # Bookstores:
 
-protobuf==3.19.3
-pycodestyle==2.8.0
-
-![ciberguarden](https://github.com/DESTHUbb/Defense-against-SQL-injection-attacks-with-Python/assets/90658763/88f2b448-0305-4b55-b94b-acb9365ebb71)
-
-
 ## pymysql:
  [![pymysql ](https://user-images.githubusercontent.com/90658763/232776563-2dfbe1b5-8dd3-4cab-9446-1c2f99bb2049.png)](https://pypi.org/project/pymysql/)
 
