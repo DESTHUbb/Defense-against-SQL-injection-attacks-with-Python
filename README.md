@@ -47,6 +47,12 @@ def get_connection():
 <br/><br/>
 
 # Bookstores:
+﻿autopep8==1.6.0
+protobuf==3.19.3
+pycodestyle==2.8.0
+
+
+
 ## pymysql:
  [![pymysql ](https://user-images.githubusercontent.com/90658763/232776563-2dfbe1b5-8dd3-4cab-9446-1c2f99bb2049.png)](https://pypi.org/project/pymysql/)
 
