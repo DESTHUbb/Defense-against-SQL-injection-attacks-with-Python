@@ -72,8 +72,8 @@ pycodestyle==2.8.0
 
 ## Autopep8:
 
-[![Autopep8](https://github.com/DESTHUbb/Defense-against-SQL-injection-attacks-with-Python/assets/90658763/9d09cb6c-6764-4d41-a4c7-0fa9179e4dee)](https://pypi.org/project/autopep8/)
-
+[![Autopep8](Autopep8)](https://pypi.org/project/autopep8/)
+![autopep8-banner](https://github.com/DESTHUbb/Defense-against-SQL-injection-attacks-with-Python/assets/90658763/e3d83e43-7520-467d-bb3d-1a493f006202)
 
 
 
