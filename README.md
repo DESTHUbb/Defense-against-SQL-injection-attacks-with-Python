@@ -47,7 +47,7 @@ def get_connection():
 <br/><br/>
 
 # Bookstores:
-﻿autopep8==1.6.0
+
 protobuf==3.19.3
 pycodestyle==2.8.0
 
@@ -73,6 +73,9 @@ pycodestyle==2.8.0
 ## [![Autopep8](Autopep8)](https://pypi.org/project/autopep8/)
 ![autopep8-banner](https://github.com/DESTHUbb/Defense-against-SQL-injection-attacks-with-Python/assets/90658763/e3d83e43-7520-467d-bb3d-1a493f006202)
 
+## 
+
+![image](https://github.com/DESTHUbb/Defense-against-SQL-injection-attacks-with-Python/assets/90658763/e15c0278-ae2d-48e4-9b68-4f30dde53c17)
 
 
 
