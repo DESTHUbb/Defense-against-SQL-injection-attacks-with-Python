@@ -78,5 +78,9 @@ pycodestyle==2.8.0
 
 
 
+![image](https://github.com/DESTHUbb/Defense-against-SQL-injection-attacks-with-Python/assets/90658763/6da9ceab-87a4-4574-8d81-0747e736b082)
+
+
+
 
 
