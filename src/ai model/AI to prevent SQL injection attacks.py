@@ -55,3 +55,6 @@ cleaned_query = clean_input(query)
         print(f"Error executing query: {e}")
         return None
         
+user_input = 'user_value'
+query = "SELECT * FROM users WHERE username = :user_input"
+results = execute_query(query, user_input)
