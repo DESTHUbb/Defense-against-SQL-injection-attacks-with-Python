@@ -31,3 +31,6 @@ results = execute_query("SELECT * FROM users WHERE username = '{}'".format(user_
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 # version 2
+
+from sqlalchemy import create_engine, text
+from sqlalchemy.orm import sessionmaker
