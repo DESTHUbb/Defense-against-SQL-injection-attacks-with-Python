@@ -42,4 +42,6 @@ def clean_input(user_input):
     cleaned_input = text(user_input).bindparams()
     return cleaned_input
 
+def execute_query(query, user_input):
+    try:
 
