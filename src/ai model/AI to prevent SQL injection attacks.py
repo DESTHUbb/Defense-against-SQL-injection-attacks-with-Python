@@ -44,4 +44,7 @@ def clean_input(user_input):
 
 def execute_query(query, user_input):
     try:
-
+        
+cleaned_query = clean_input(query)
+        results = session.execute(cleaned_query, {"user_input": user_input})
+        
