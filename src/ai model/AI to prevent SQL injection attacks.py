@@ -27,3 +27,7 @@ user_input = 'user_value'
 session.rollback()
         return None
 results = execute_query("SELECT * FROM users WHERE username = '{}'".format(user_input))
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+# version 2
