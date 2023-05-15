@@ -38,3 +38,8 @@ engine = create_engine('postgresql://username:password@localhost:5432/database_n
 Session = sessionmaker(bind=engine)
 session = Session()
 
+def clean_input(user_input):
+    cleaned_input = text(user_input).bindparams()
+    return cleaned_input
+
+
