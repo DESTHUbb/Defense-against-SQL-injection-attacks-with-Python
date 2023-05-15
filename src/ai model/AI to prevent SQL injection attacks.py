@@ -47,4 +47,11 @@ def execute_query(query, user_input):
         
 cleaned_query = clean_input(query)
         results = session.execute(cleaned_query, {"user_input": user_input})
+    
+     session.commit()
+        return results
+    except Exception as e:
+        session.rollback()
+        print(f"Error executing query: {e}")
+        return None
         
